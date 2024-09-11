@@ -7,6 +7,9 @@ Each notebook reproduces one figures, numbered in the same way as in the publica
 Each notebook is structured in the same way:
 
 Import packages
+
 Read in data
+
 Data analysis
+
 Plot the graphs
