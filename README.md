@@ -1,7 +1,7 @@
 # Adriatic-to-the-Alps
 This repository includes the data and notebooks to replicate and reuse the analysis of the MADINI dataset published in:
 
-Page, J. (Forthcoming). From the Adriatic to the Alps. Trade in Transport Networks in Roman and Late Antique Northern Italy. Oxford: Archaeopress. 
+Page, J. (Forthcoming). *From the Adriatic to the Alps. Trade in Transport Networks in Roman and Late Antique Northern Italy*. Oxford: Archaeopress. 
 
 During the Roman period, inland regions are often assumed to have been difficult to access, with imports and trade dropping off as distance from the coast increased. Long-distance maritime trade has been the subject of intensive study, but the complex dynamics that governed inland trade have not seen the same level of interest. Within this book, Northern Italy serves as a case study to explore the role transport cost and consumer choice played in the distribution of local and imported goods throughout inland regions. Using three contrasting, quantified datasets of amphorae, finewares, and marble (together forming the Material Data in Northern Italy (MADINI) dataset), chronological and spatial patterns in inland trade are analysed using aoristic analysis and hierarchical clustering. The results demonstrate that inland trade was far more complex than a simple regression of imports as distance from the coast increased. Clear zones of consumption across Northern Italy are seen in the distribution of the material data, often closely linked to transport costs. While the river network is shown to have been a crucial in facilitating inland transport, the significance of trans-mountain trade across the Alps and the Apennines has been underestimated. Areas furthest inland are often shown to have had the greatest diversity in the provenance and types of material, as opposed to coastal areas which demonstrate a more limited selection. The results highlight the diverse array of factors governing inland trade and the interplay between cost and choice in the decisions made by consumers.
 
@@ -15,8 +15,11 @@ Please cite this resource when citing the original MADINI dataset.
 The original datasets are in a matrix format and includes multiple tables. This has been restructured into a single table format to enable the data analysis in the study.
 
 The datasets are available as .csv files:
+
 AMINI database: amphora.csv
+
 REFINI database: fineware.csv
+
 DESTINI database: stone.csv
 
 # Notebooks
