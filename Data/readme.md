@@ -11,6 +11,6 @@ The datasets are available as .csv files:
 
 AMINI database: amphora.csv
 
-REFINI database: fineware.csv
-
 DESTINI database: stone.csv
+
+REFINI database: fineware.csv
