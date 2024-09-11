@@ -16,11 +16,11 @@ The original datasets are in a matrix format and includes multiple tables. This 
 
 The datasets are available as .csv files:
 
-AMINI database: amphora.csv
+AMINI database: [amphora.csv](https://github.com/jamespage15/Adriatic-to-the-Alps/blob/main/Data/amphora.csv)
 
-REFINI database: fineware.csv
+REFINI database: [fineware.csv](https://github.com/jamespage15/Adriatic-to-the-Alps/blob/main/Data/fineware.csv)
 
-DESTINI database: stone.csv
+DESTINI database: [stone.csv](https://github.com/jamespage15/Adriatic-to-the-Alps/blob/main/Data/stone.csv)
 
 # Notebooks
 The R notebooks used to generate the data analysis figures are stored in this repository.
