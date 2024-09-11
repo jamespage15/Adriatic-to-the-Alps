@@ -1,7 +1,7 @@
 # Data
 The data used here are restructured versions of the component databases of the MADINI dataset collected by James Page and openly available on Zenodo:
 
-Page, J. The MADINI Dataset [Internet]. Zenodo; 2021 [cited 2024 Sept 12]. Available from: https://zenodo.org/record/5213724
+Page, J. The MADINI Dataset. Zenodo; 2024 [cited 2024 Sept 12]. Available [here](https://doi.org/10.5281/zenodo.13745898).
 
 Please cite this resource when citing the original MADINI dataset.
 
